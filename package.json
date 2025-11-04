@@ -1,5 +1,4 @@
-
-  "name": "algonova-landing",
+"name": "algonova-landing",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -21,3 +20,5 @@
     "vite": "^5.0.0"
   }
 }
+
+  
